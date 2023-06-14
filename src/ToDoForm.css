@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;500&display=swap");
+
+.ToDoForm-btn {
+  background-color: rgb(152, 238, 152);
+  border-color: rgb(152, 238, 152);
+  border-radius: 4px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+}
+.ToDoForm-input {
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+}

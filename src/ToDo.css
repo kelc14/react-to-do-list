@@ -1,0 +1,14 @@
+.ToDo {
+  display: flex;
+  width: 100%;
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  margin: 3px;
+  padding: 7px;
+}
+
+.ToDo:hover {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: red;
+  color: white;
+}
